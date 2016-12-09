@@ -21,6 +21,7 @@ public class Stapeltellen {
 	public static void main(String[] args) {
 		Stapeltellen stapelteller = new Stapeltellen();
 		System.out.println(stapelteller.stapeltellen(782));
+		System.out.println(stapelteller.stapeltellen(28328));
 	}
 	
 }
