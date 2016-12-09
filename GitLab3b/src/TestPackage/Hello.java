@@ -8,7 +8,7 @@ public class Hello {
 	}
 	
 	public int squared(int i) {
-		return i^2;
+		return i^5;
 	}
 
 }
